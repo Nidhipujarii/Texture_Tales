@@ -24,4 +24,6 @@ The analysis is based on the following database schema:
 - product_details: Contains information about product details, including product names, IDs, categories, and segments, etc
 - sales: Contains sales transaction details, quantities, prices, discounts, and membership status.
 - product_prices: contains product_id and prices
+
+  
 ***Happy querying and exploring the Texture Tales SQL Project! 📊💡🔍🚀***
